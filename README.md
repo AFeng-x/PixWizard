@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center"> -->
+<div align="center">
 <!-- [[🌐 Project Page](https://draw-and-understand.github.io/)]  -->
 
 [[📖 Paper]()]
@@ -15,9 +15,13 @@
 
 ## 👀 Overview
 
+### Task Overview
+
 <p align="center">
     <img src="assets/figures/fig1.jpg" width="90%"> <br>
 </p>
+
+### PixWizard Overview
 
 <p align="center">
     <img src="assets/figures/fig2.jpg" width="90%"> <br>
