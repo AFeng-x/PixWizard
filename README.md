@@ -18,7 +18,7 @@
 ### Task Overview
 
 <p align="center">
-    <img src="assets/figures/fig1.jpg" width="95%"> <br>
+    <img src="assets/figures/fig1.jpg" width="90%"> <br>
 </p>
 
 ### PixWizard Overview
@@ -29,8 +29,8 @@
 
 ## 💥 Planning
 
-- **[2024.09.24]** ✅ Release the Paper
-- - [x] Release the Model (The end of September)
-- - [x] Release the Code  (The end of September)
+- ✅ Release the Paper
+- - [x] Release the Model (End of September)
+- - [x] Release the Code  (End of September)
 - - [x] Release the Data
    
