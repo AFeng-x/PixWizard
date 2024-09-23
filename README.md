@@ -4,14 +4,14 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center"> -->
 <!-- [[🌐 Project Page](https://draw-and-understand.github.io/)]  -->
-
-[[📖 Paper]()]
-
+<!-- [[📖 Paper]()] -->
 <!-- [[🤗🤖️ Model]()] (Release soon!) -->
 <!-- [[🎮 Demo]()] -->
-</div>
+<!-- </div> -->
+
+This work presents a versatile image-to-image visual assistant, PixWizard, designed for image generation, manipulation, and translation based on free-from user instructions. [[📖 Paper]()]
 
 ## 👀 Overview
 
