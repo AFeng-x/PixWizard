@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧙 PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions [[📖 Paper]()] 
+## 🧙 PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions [[📖 Paper]()] 
 
 </div>
 
