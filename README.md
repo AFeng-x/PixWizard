@@ -1,17 +1,15 @@
 <div align="center">
 
-# 🧙 PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions
+# 🧙 PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions [[📖 Paper]()] 
 
 </div>
 
-<div align="center">
-
+<!-- <div align="center"> -->
 <!-- [[🌐 Project Page](https://draw-and-understand.github.io/)]  -->
-[[📖 Paper]()] 
-[[🤗🤖️ Model]()] (Release soon!)
+<!-- [[📖 Paper]()] -->
+<!-- [[🤗🤖️ Model]()] (Release soon!) -->
 <!-- [[🎮 Demo]()] -->
-
-</div>
+<!-- </div> -->
 
 
 ## 💥 Planning
