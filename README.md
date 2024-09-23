@@ -18,7 +18,7 @@ This work presents a versatile image-to-image visual assistant, PixWizard, desig
 ### Task Overview
 
 <p align="center">
-    <img src="assets/figures/fig1.jpg" width="90%"> <br>
+    <img src="assets/figures/fig1.jpg" width="80%"> <br>
 </p>
 
 ### PixWizard Overview
