@@ -16,7 +16,7 @@
 ## 💥 Planning
 
 - **[2024.09.24]** ✅ Release the [Paper]()
-- **[xxxx.xx.xx]** - [x] Release the [Model]()
-- **[xxxx.xx.xx]** - [x] Release the [Code]()
-- **[xxxx.xx.xx]** - [x] Release the [Data]()
+- - [x] Release the [Model]()
+- - [x] Release the [Code]()
+- - [x] Release the [Data]()
    
