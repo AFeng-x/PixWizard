@@ -11,7 +11,7 @@
 <!-- [[🎮 Demo]()] -->
 <!-- </div> -->
 
-This work presents a versatile image-to-image visual assistant, PixWizard, designed for image generation, manipulation, and translation based on free-from user instructions. [[📖 Paper]()]
+This work presents a versatile image-to-image visual assistant, PixWizard, designed for image generation, manipulation, and translation based on free-from user instructions. [[📖 Paper](https://arxiv.org/abs/2409.15278)]
 
 ## 👀 Overview
 
