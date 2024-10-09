@@ -33,7 +33,7 @@ This work presents a versatile image-to-image visual assistant, PixWizard, desig
 ## 🤖️ Model Zoo
 
 | Resolution | PixWizard Parameter| Text Encoder | VAE Encoder | Prediction | Download URL  |
-| ---------------- | ----------------------- | ---------------------------------------------------- | ----------------|---------------------------- |
+| ---------------- | ------------------- | ------------------  | ------------- | ------------|------------------- |
 | 512-768-1024     |           2B            |  [Gemma-2B](https://huggingface.co/google/gemma-2b) and [CLIP-L-336](https://huggingface.co/openai/clip-vit-large-patch14-336) | [SD-XL](https://huggingface.co/stabilityai/sdxl-vae) |  Rectified Flow | 🤗[hugging face](https://huggingface.co/Afeng-x/PixWizard) |
 
 
