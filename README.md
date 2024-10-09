@@ -17,8 +17,8 @@ This work presents a versatile image-to-image visual assistant, PixWizard, desig
 ## 👀 Overview
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="assets/figures/fig1.jpg" width="50%" style="margin-right: 10px;"> 
-    <img src="assets/figures/fig2.jpg" width="50%">
+    <img src="assets/figures/fig1.jpg" width="46%" style="margin-right: 10px;"> 
+    <img src="assets/figures/fig2.jpg" width="46%">
 </div>
 
 
