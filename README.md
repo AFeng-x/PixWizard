@@ -17,8 +17,8 @@ This work presents a versatile image-to-image visual assistant, PixWizard, desig
 ## 👀 Overview
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="assets/figures/fig1.jpg" width="46%" style="margin-right: 10px;"> 
-    <img src="assets/figures/fig2.jpg" width="46%">
+    <img src="assets/figures/fig1.jpg" width="42%" style="margin-right: 10px;"> 
+    <img src="assets/figures/fig2.jpg" width="50%">
 </div>
 
 
@@ -69,14 +69,14 @@ pip install -r requirements.txt
 pip install flash-attn --no-build-isolation
 ```
 
-## Inference
+## 🚀 Inference
 
 run the following command:
 ```bash
 bash exps/inference_pixwizard.sh
 ```
 
-## Training
+## 🔥 Training
 
 - **Prepare data**
   - First, refer to the provided [annotation_example](./configs/data/training_example.json) to prepare your own training dataset.
