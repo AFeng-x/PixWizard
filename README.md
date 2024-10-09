@@ -14,13 +14,16 @@ This work presents a versatile image-to-image visual assistant, PixWizard, desig
 - ✅ Release the Code
 - - [x] Supported in the diffusers
 
-## 👀 Overview
+## 👀 Task&Data Overview
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="assets/figures/fig1.jpg" width="44%" style="margin-right: 15px;"> 
-    <img src="assets/figures/fig2.jpg" width="52%">
+<!-- <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="assets/figures/fig1.jpg" width="75%">
+    <img src="assets/figures/fig2.jpg" width="53%">
+</div> -->
+
+<div align="center">
+  <img src="assets/figures/fig1.jpg" width="80%">
 </div>
-
 
 ## 🤖️ Model Zoo
 
