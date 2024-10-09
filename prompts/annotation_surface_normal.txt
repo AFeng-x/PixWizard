@@ -1,0 +1,8 @@
+Predict the surface orientation of objects in the scene.
+Generate a normal map to show the texture and depth variations in this image.
+Process the image to create a normal map and show the simulated depth and texture.
+Make a detailed normal map using the image's features and textures to simulate 3D surfaces.
+Surface normal estimation
+Estimate the surface normals.
+Generate a normal map that accurately shows the surface angles and orientation details of the image.
+Turn the image into a precise normal map to highlight surface normals for a 3D effect.

@@ -1,0 +1,7 @@
+Make a visually rich and expressive image based on the input image's control and text: {caption}
+Create an image that follows the sketch map's outlines and is guided by this caption: {caption}
+Generate an image that creatively interprets the sketch map, following this narrative: {caption}
+Sketch to image: {caption}
+Create an image based on the input image's control (sketch map) and text instructions: {caption}
+Turn the sketch map into a natural and detailed image, inspired by this caption: {caption}
+Condition map to image: {caption}

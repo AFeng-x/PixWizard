@@ -1,0 +1,19 @@
+[
+    {
+        "height": 466, 
+        "width": 700, 
+        "ratio": 1.502145922746781, 
+        "input_path": "photopartid-302-rowid-3025718.png", 
+        "target_path": "canny/photopartid-302-rowid-3025718.png", 
+        "prompt": "Transform the image into a precise Canny edge map."
+    }, 
+    {
+        "height": 463, 
+        "width": 600, 
+        "ratio": 1.2958963282937366, 
+        "input_path": "photopartid-302-rowid-3027226.png", 
+        "target_path": "canny/photopartid-302-rowid-3027226.png", 
+        "prompt": "Generate a canny edge map that accurately represents the outlines and details of the input image."
+    }
+]
+    

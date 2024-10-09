@@ -1,0 +1,7 @@
+Generate an image based on the logo picture I provided, following the caption: {caption}
+Create a picture using the provided logo and include this caption: {caption}
+Create a graphic that expands on the theme of the logo I shared, using the caption: {caption}
+Generate an image from the logo I provided, with the caption: {caption}
+Logo-driven generation: {caption}
+Use the logo image I provided to generate a new image, including the text: {caption}
+Make a visual representation based on the logo I uploaded, with the caption: {caption}

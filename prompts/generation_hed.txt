@@ -1,0 +1,7 @@
+Create an image based on the input image's control and text instructions: {caption}
+Create an image that follows the HED map's contours and is guided by this caption: {caption}
+Generate an image that creatively interprets the HED edge map, following this narrative: {caption}
+Condition map to image: {caption}
+Turn the provided HED edge map into a natural image, inspired by this caption: {caption}
+Make an image using the input image's control (HED) and text instructions: {caption}
+HED edge map to image: {caption}

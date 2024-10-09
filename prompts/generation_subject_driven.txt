@@ -1,0 +1,10 @@
+Create an image based on the input image's subject and text instructions: {caption}
+Produce new artwork that stays true to the input image's content, guided by the description: {caption}
+Make a new image inspired by the subject matter of the image, ensuring it matches the description: {caption}
+Subject-driven generation: {caption}
+Generate a new image that mirrors the subject of the provided photo but follows this description: {caption}
+Use the content of the input image to create a new one based on this description: {caption}
+Formulate an image that mirrors the primary subject in the input and follows the given description: {caption}
+Craft a new image inspired by the subject matter of the input image, ensuring it matches the description: {caption}
+Create an image that mirrors the subject of the input while incorporating the described elements: {caption}
+Design an image inspired by the subject of the input, integrating the outlined details: {caption}

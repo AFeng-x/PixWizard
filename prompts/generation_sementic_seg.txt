@@ -1,0 +1,8 @@
+Turn the provided segmentation map into a natural and cohesive image, inspired by this caption: {caption}
+Condition map to image: {caption}
+Create a cohesive and detailed image based on the input image's control and text: {caption}
+Seg map to image: {caption}
+Generate an image that creatively interprets the provided segmentation map, following this narrative: {caption}
+Use the distinct regions from the segmentation map to create a detailed image that highlights the features and objects mentioned in the text: {caption}
+Make an image using the input image's control (segmentation map) and text instructions: {caption}
+Create an image that follows the segmentation map's divisions and is guided by this caption: {caption}

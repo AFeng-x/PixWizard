@@ -1,0 +1,12 @@
+diffusers
+fairscale
+accelerate
+tensorboard
+transformers
+gradio
+torchdiffeq
+click
+kornia
+h5py
+tqdm
+git+https://github.com/openai/CLIP.git

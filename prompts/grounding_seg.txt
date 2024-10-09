@@ -1,0 +1,8 @@
+Grounding, {color}: {caption}
+Locate the subject, {color}: {caption}
+Mark the pixels, {color}: {caption}
+Identify and highlight the areas, {color}: {caption}
+Pinpoint the pixel area, {color}: {caption}
+Mark the pixels that match the color {color} on the object described as: {caption}
+Mark the pixels of {caption} in {color} and leave the rest unchanged.
+Paint the pixels of {caption} in {color} and maintain the current appearance of the other pixels.

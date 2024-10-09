@@ -1,0 +1,8 @@
+Process the image with Canny edge detection and show the edges.
+Turn the image into a precise Canny edge map.
+Show the outlined edges in this image with Canny edge detection.
+Create a detailed Canny edge map using the image's features and textures.
+Image to canny edge.
+Generate a Canny edge map that accurately shows the outlines and details of the image.
+Make a Canny edge map that captures the main contours and details of the image.
+Convert the image to show its edges with Canny edge detection and display it.

@@ -1,0 +1,8 @@
+Restore this image: {caption}.
+Enhance this image for clarity, guided by this description: {caption}.
+Sharpen this blurry photo according to the caption: {caption}.
+Recover the image details using the caption: {caption}.
+Improve the image's clarity to highlight its features, described as: {caption}.
+Remove noise and pixelation to reveal the natural appearance described in: {caption}.
+Eliminate the fuzziness in this picture to make it clear, as described: {caption}.
+Resolve the blurriness in this image to enhance visibility and details, as noted in the caption: {caption}.

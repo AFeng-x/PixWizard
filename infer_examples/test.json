@@ -1,0 +1,52 @@
+[
+    {
+        "input_path": "infer_examples/fig1.jpg",
+        "target_path": "infer_examples/blank_gt.png",
+        "prompt": "Create a depth map that captures the spatial relationships and distances in the image."
+    },
+    {
+        "input_path": "infer_examples/fig2.jpg",
+        "target_path": "infer_examples/blank_gt.png",
+        "prompt": "Turn the image into a precise normal map to highlight surface normals for a 3D effect."
+    },
+    {
+        "input_path": "infer_examples/fig3.jpg",
+        "target_path": "infer_examples/blank_gt.png",
+        "prompt": "Turn the image into a segmentation map"
+    },
+    {
+        "input_path": "infer_examples/fig4.jpg",
+        "target_path": "infer_examples/blank_gt.png",
+        "prompt": "Improve visibility by removing the rain from the scene."
+    },
+    {
+        "input_path": "infer_examples/fig5.jpg",
+        "target_path": "infer_examples/blank_gt.png",
+        "prompt": "Canny edge to image: Two persons standing and wearing different color dresses. In the background there are few vehicles and buildings in white color."
+    },
+    {
+        "input_path": "infer_examples/fig6.jpg",
+        "target_path": "infer_examples/blank_gt.png",
+        "prompt": "Create a binary mask representing the object as described in: man in orange in the left"
+    },
+    {
+        "input_path": "infer_examples/fig7.jpg",
+        "target_path": "infer_examples/blank_gt.png",
+        "prompt": " Add the group of birds at the top left"
+    },
+    {
+        "input_path": "infer_examples/fig8.jpg",
+        "target_path": "infer_examples/blank_gt.png",
+        "prompt": "Follow the caption to inpaint the designated area of the image: A serene coastal scene with a combination of natural elements. The foreground features a sandy beach leading to a rocky outcrop with dense vegetation, including coniferous trees and shrubs. The middle ground is dominated by a turquoise sea with white foam where waves break against the rocks, suggesting a rugged coastline. The background is composed of a vast expanse of ocean meeting a clear blue sky at the horizon. The sunlight illuminates the scene, casting shadows on the beach and highlighting the textures of the rocks and foliage. There is no visible human activity or artificial structures, emphasizing the untouched nature of the landscape. The overall impression is one of tranquility and natural beauty."
+    },
+    {
+        "input_path": "infer_examples/fig9.jpg",
+        "target_path": "infer_examples/blank_gt.png",
+        "prompt": "Create an outpainted extension of the image on all sides, ensuring it continues coherently as outlined: The dragon of cyborg evils world that conquer the world thousands of years, robot theme, 8k resolution, 20 megapixels"
+    },
+    {
+        "input_path": "infer_examples/white_image.png",
+        "target_path": "infer_examples/blank_gt.png",
+        "prompt": "Image generation: In the black and white line drawing, a young girl with a ponytail is engrossed in her work on a computer. She's sitting at a desk, her fingers flying across the keyboard as she types. Her eyes are glued to the screen, reflecting her focus and determination. The desk is not just a workspace but a testament to her busy day. It's strewn with papers and notes, each one a piece of her work or perhaps a source of inspiration. Despite the clutter, there's an order to it all, a sense of organization amidst the chaos. The girl, the desk, and the surrounding notes create a dynamic scene of a day in the life of a busy individual."
+    }
+]

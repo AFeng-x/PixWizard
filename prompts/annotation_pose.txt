@@ -1,0 +1,8 @@
+Human pose estimation.
+Create a human pose map that captures the main body contours and limb alignments in the image.
+Transform the image into a clear human pose map, highlighting the arrangement of human figures.
+Generate a human pose map from the image, showing the posture and limb positions.
+Process the image to create a human pose map and show the arrangement of limbs and body orientation.
+Make a human pose map that accurately shows the posture and limb positions in the image.
+Image to human pose map
+Turn the image into a clear pose map, highlighting body positions.

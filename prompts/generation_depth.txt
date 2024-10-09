@@ -1,0 +1,8 @@
+Make an image using the condition map and text instructions: {caption}
+Generate an image that creatively interprets the provided depth map, following this narrative: {caption}
+Create an image based on the depth map and text instructions: {caption}
+Use the depth map to create a detailed image that highlights the features mentioned in the text: {caption}
+Depth to image: {caption}
+Condition map to image: {caption}
+Create an image that follows the depth map\'s gradients and the caption: {caption}
+Generate an image controlled by the depth map: {caption}

@@ -1,0 +1,6 @@
+META:
+  - 
+    path: "training_example.json"
+    type: "image_text_image"
+    scale: 1
+    ratio: 1.0

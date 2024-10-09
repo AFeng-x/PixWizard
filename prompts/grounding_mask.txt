@@ -1,0 +1,5 @@
+Extract the binary mask image based on the object description: {caption}
+Construct a black-and-white mask image based on the object description: {caption}
+Based on my region of interest about {caption}, extract the binary mask and show me the mask.
+Create a binary mask representing the object as described in: {caption}
+Grounding, extract the binary mask: {caption}

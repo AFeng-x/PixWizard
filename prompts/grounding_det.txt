@@ -1,0 +1,10 @@
+Detect, {color}: {caption}
+Mark the specified area with a bounding box in {color}: {caption}
+Draw a bounding box around the object, using {color}: {caption}
+Highlight the target area with a {color} bounding box: {caption}
+Enclose the detected region with a {color} box: {caption}
+Use a {color} box to outline the target area: {caption}
+Encircle the region of interest with a bounding box in {color}: {caption}
+Outline the detected object with a {color} box: {caption}
+Box the specific area in {color}: {caption}
+Place a {color} bounding box around the identified region: {caption}

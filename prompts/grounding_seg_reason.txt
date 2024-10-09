@@ -1,0 +1,7 @@
+Please mark the pixels in {color} based on the question: {caption}
+Please identify and highlight the areas in {color} according to the question: {caption}
+Pinpoint the pixel area in {color} based on the question: {caption}
+Mark the pixels that match the color {color} on the subject according to the question: {caption}
+Please mark the pixels and leave the rest unchanged: {caption}
+Paint the pixels in {color} and maintain the current appearance of the other pixels: {caption}
+Please ouput the segmentation mask to answer the question: {caption}

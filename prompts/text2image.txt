@@ -1,0 +1,6 @@
+Text to image generation: {caption}
+Image generation: {caption}
+Please generate an image with the following caption: {caption}
+Create an image based on this description: {caption}
+Produce an image according to the following description: {caption}
+Generate a photo that includes the following elements: {caption}

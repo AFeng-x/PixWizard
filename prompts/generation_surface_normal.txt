@@ -1,0 +1,8 @@
+Generate an image that creatively interprets the provided normal map, following this narrative: {caption}
+Make an image using the input image's control (normal map) and text instructions: {caption}
+Create an image that follows the normal map's texture details and is guided by this caption: {caption}
+Turn the provided normal map into a natural and textured image, inspired by this caption: {caption}
+Surface normal map to image: {caption}
+Condition map to image: {caption}
+Create a textured and detailed image based on the input image's control and text: {caption}
+Generate an image controlled by the surface normal map: {caption}

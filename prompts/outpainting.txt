@@ -1,0 +1,7 @@
+Create an outpainted extension of the image on all sides, ensuring it continues coherently as outlined: {caption}
+Outpaint, ensuring a seamless transition from the existing content as described: {caption}
+Expand the scene in all directions, keeping the same level of detail as described: {caption}
+Extend the scene by outpainting, maintaining visual harmony and consistency with the description: {caption}
+Extend the image, keeping the same style and theme as specified in the description: {caption}
+Outpaint the image, making sure the extended part matches the original scenery according to the description: {caption}
+Outpaint the image with the description: {caption}

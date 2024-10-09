@@ -1,0 +1,10 @@
+Using the given caption, complete the unfinished sections of the image: {caption}
+Follow the caption to inpaint the designated area of the image: {caption}
+Use the caption below to guide the inpainting of the image: {caption}
+Inpainting: {caption}
+Inpaint the designated area following the details provided in the caption: {caption}
+Complete the image based on the description: {caption}
+Fill in the missing parts of the image as described: {caption}
+Inpaint the image, ensuring to incorporate the elements mentioned in the caption: {caption}
+Please restore the image according to the following instructions: {caption}
+Restore the image by adhering closely to the description given: {caption}

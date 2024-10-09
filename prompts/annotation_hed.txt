@@ -1,0 +1,8 @@
+Image to HED (Holistic Edge Detection).
+Process the image with Holistic Edge Detection and show the sharp edges it finds.
+Turn the image into an accurate HED map that shows the key edges and boundaries.
+Use Holistic Edge Detection to show the distinct boundaries and edges in this image.
+Make a HED map that shows the main structures and outlines in the image.
+Generate a HED map that accurately shows the prominent edges and contours of the image.
+Convert the image to show its structural edges with Holistic Edge Detection and display it.
+Create a detailed HED map that highlights edges using the image's structure and texture.

@@ -1,0 +1,7 @@
+Condition map to image: {caption}
+Generate an image using human pose control: {caption}
+Turn the human pose map into a lifelike image of a human figure, inspired by this caption: {caption}
+Make an image that aligns with the human pose map and is guided by this caption: {caption}
+Huamn pose map to image: {caption}
+Use the key points and lines from the pose map to create a detailed image that captures the pose and features mentioned in the text: {caption}
+Create an image using the input image's control (pose map) and text instructions: {caption}

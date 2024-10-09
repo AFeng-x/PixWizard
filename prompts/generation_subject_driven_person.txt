@@ -1,0 +1,11 @@
+Create an image based on the input image's subject and text instructions: {caption}
+Make a new visual representation based on the person in the input, ensuring it matches the specifics: {caption}
+Design a new image that captures the essence of the person in the input image and incorporates the specified details: {caption}
+Subject-driven generation: {caption}
+ID-driven generation: {caption}
+Generate an image that reflects the person in the input but includes the specified details: {caption}
+Design an image inspired by the input's ID, integrating the outlined details: {caption}
+Develop an image that mirrors the person in the input while incorporating the described elements: {caption}
+Generate an image that reflects the main character of the input and includes the specified details: {caption}
+Design a new image that captures the essence of the person in the input image and aligns with the description: {caption}
+Generate an image focused on the main character or person: {caption}

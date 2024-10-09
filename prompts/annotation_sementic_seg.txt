@@ -1,0 +1,8 @@
+Process the image to create a segmentation map and show the categorization of the scene's parts.
+Generate a segmentation map that accurately outlines and colors different regions based on the objects and features in the image.
+Create a semantic segmentation map from this image.
+Create a segmentation map from this image, showing a color-coded layout of different objects and terrains.
+Turn the image into a segmentation map, visually dividing and labeling each section by its content.
+Semantic segmentation.
+Make a segmentation map that clearly identifies different areas and object types.
+Image to semantic segmentation map.

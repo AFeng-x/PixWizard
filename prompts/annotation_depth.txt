@@ -1,0 +1,7 @@
+Turn the image into a detailed depth map that shows perspective and depth.
+Depth estimation
+Make a depth map using the features and textures in the image to show distance.
+Create a depth map that captures the spatial relationships and distances in the image.
+Generate a depth map that shows the distance of objects in the image.
+Create a depth map from the image and show it.
+Process the image to make a depth map and show the depth variation.

@@ -1,0 +1,10 @@
+Remove the noise and grain from this image.
+Fix the graininess to show the true details of this picture.
+Smooth out the visual noise from this grainy image.
+Make this photo clearer by getting rid of the noise.
+denoise
+Reduce the noise and grain in this picture.
+Improve this image by removing the noise.
+Clean up this image by removing the static noise.
+Clear the pixelation to sharpen this noisy image.
+Make this picture better by filtering out the digital noise.
