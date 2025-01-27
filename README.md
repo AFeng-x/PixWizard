@@ -12,7 +12,7 @@ This work presents a versatile image-to-image visual assistant, PixWizard, desig
 - ✅ Release the Paper
 - ✅ Release the Model
 - ✅ Release the Code
-- - [x] Supported in the diffusers
+- - [x] Release the Dataset
 
 ## 👀 Overview
 
