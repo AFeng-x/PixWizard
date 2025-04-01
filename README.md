@@ -19,13 +19,13 @@ This work presents a versatile image-to-image visual assistant, PixWizard, desig
 ### 🧐 Task&Data Overview
 
 <div align="center">
-  <img src="assets/figures/fig1.jpg" width="80%">
+  <img src="assets/figures/fig1.jpg" width="90%">
 </div>
 
 ### 🧐 Model Overview
 
 <div align="center">
-  <img src="assets/figures/fig2.jpg" width="70%">
+  <img src="assets/figures/fig2.jpg" width="80%">
 </div>
 
 
