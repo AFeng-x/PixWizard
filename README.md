@@ -5,14 +5,14 @@
 </div>
 
 This work presents a versatile image-to-image visual assistant, PixWizard, designed for image generation, manipulation, and translation based on free-from user instructions. [[📖 Paper](https://arxiv.org/abs/2409.15278)]
-
+[[🤗 PixWizard-Data-500K](https://huggingface.co/datasets/Afeng-x/PixWizard-Data-500k)]
 
 ## 💥 Planning
 
 - ✅ Release the Paper
 - ✅ Release the Model
 - ✅ Release the Code
-- - [x] Release the Dataset (25.04)
+- ✅ Release the Dataset
 
 ## 👀 Overview
 
